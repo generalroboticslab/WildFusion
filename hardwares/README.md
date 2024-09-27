@@ -1,6 +1,6 @@
 # Introduction
 
-This folder contains the CAD files for the device holders designed for both the controller and the Unitree Go2, which can be imported and printed directly. We also provide our example devices for reference. More instructions about the hardwares can be found in the [PDF](https://github.com/generalroboticslab/WildFusion/blob/final/hardwares/Instructions.pdf).
+This folder contains the CAD files for the device holders designed for both the controller and the Unitree Go2, which can be imported and printed directly. We also provide our example devices for reference. More instructions about the hardwares can be found in the [PDF](https://github.com/generalroboticslab/WildFusion/blob/main/hardwares/Instructions.pdf).
 
 ## Device lists for Go2(only for reference)
 | Item  | Pics  | Purchasing list <br> (available is <br> not guaranteed)  |
