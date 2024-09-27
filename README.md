@@ -54,7 +54,7 @@ python evaluation/gt_vis_pcd.py --data_path /path/to/data
 Download our [dataset](https://duke.box.com/s/02algnthvx1fb3znt50cdpov7ehgseto) and unzip
 
 ## Hardwares
-The list of our hardware set and CAD model are under [hardwares](https://github.com/yanbhliu/WF_final_hold/tree/main/hardwares) subdirectory.
+The list of our hardware set and CAD model are under [hardwares](https://github.com/generalroboticslab/WildFusion/tree/main/hardwares) subdirectory.
 
 ## Acknowledgement
 [go2_ros2_sdk](https://github.com/abizovnuralem/go2_ros2_sdk)
