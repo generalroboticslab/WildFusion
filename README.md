@@ -1,5 +1,5 @@
 # WildFusion: Multimodal Implicit 3D Reconstructions in the Wild
-Yanbaihui Liu, [Boyuan Chen](http://boyuanchen.com/)
+[Yanbaihui Liu](https://yanbhliu.github.io/), [Boyuan Chen](http://boyuanchen.com/)
 <br>
 Duke University
 <br>
