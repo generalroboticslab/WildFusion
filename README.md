@@ -58,7 +58,7 @@ python evaluation/gt_vis_pcd.py --data_path /path/to/data
 ```
 
 ## Dataset
-Download our [dataset](https://duke.box.com/s/02algnthvx1fb3znt50cdpov7ehgseto) and unzip
+Download our [dataset](https://duke.box.com/s/uvjhxqnhn91t2ps8z1npq7u4dfcv9e3k) and unzip
 
 ## Hardwares
 The list of our hardware set and CAD model are under [hardwares](https://github.com/generalroboticslab/WildFusion/tree/main/hardwares) subdirectory.
