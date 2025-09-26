@@ -68,14 +68,13 @@ The list of our hardware set and CAD model are under [hardwares](https://github.
 If you think this paper is helpful, please consider cite our work
 
 ```plaintext
-@misc{liu2024wildfusionmultimodalimplicit3d,
-      title={WildFusion: Multimodal Implicit 3D Reconstructions in the Wild}, 
-      author={Yanbaihui Liu and Boyuan Chen},
-      year={2024},
-      eprint={2409.19904},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2409.19904}, 
+@inproceedings{liu2025wildfusion,
+  title={WildFusion: Multimodal Implicit 3D Reconstructions in the Wild},
+  author={Liu, Yanbaihui and Chen, Boyuan},
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={8603--8603},
+  year={2025},
+  organization={IEEE}
 }
 ```
 
